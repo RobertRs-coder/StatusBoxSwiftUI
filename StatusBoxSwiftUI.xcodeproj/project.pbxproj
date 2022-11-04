@@ -19,6 +19,7 @@
 		2347C56A2913780C00EB6E4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2347C56C2913780D00EB6E4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2347C56F2913780D00EB6E4F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2347C5762913781800EB6E4F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		2347C55C2913780C00EB6E4F = {
 			isa = PBXGroup;
 			children = (
+				2347C5762913781800EB6E4F /* README.md */,
 				2347C5672913780C00EB6E4F /* StatusBoxSwiftUI */,
 				2347C5662913780C00EB6E4F /* Products */,
 			);
